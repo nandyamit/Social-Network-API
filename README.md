@@ -103,7 +103,7 @@ npm start
 ![alt text](./Assets/image-3.png)
 
 ## Walkthrough Video
-![alt text](./Assets/Social Network API Walkthrough Video.mp4)
+[Download video demonstration](https://github.com/nandyamit/Social-Network-API/blob/main/Assets/Social%20Network%20API%20Walkthrough%20Video.mp4)
 
 ## Contributing
 1. Fork the repository
